@@ -1,1 +1,1 @@
-Object.assign({}, playlist, { Rahman: 'Urvasi' })
+var  playlist= { Rahman: 'Urvasi' }
